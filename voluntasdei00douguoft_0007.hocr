@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./voluntasdei00douguoft_0007.png"; bbox 0 0 1795 2796; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 157 165 1476 284">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 157 165 1476 284">
+     <span class='ocr_line' id='line_1_1' title="bbox 157 165 1476 284; baseline 0.002 -20"><span class='ocrx_word' id='word_1_1' title='bbox 157 165 1074 264; x_wconf 83' lang='lat' dir='ltr'>VOLUNTAS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1203 169 1476 284; x_wconf 75' lang='lat' dir='ltr'><strong>DEI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 307 834 1327 880">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 307 834 1327 880">
+     <span class='ocr_line' id='line_1_2' title="bbox 307 834 1327 880; baseline 0.001 -2"><span class='ocrx_word' id='word_1_3' title='bbox 307 834 466 879; x_wconf 76' lang='lat' dir='ltr'>‘PRO</span> <span class='ocrx_word' id='word_1_4' title='bbox 512 834 805 879; x_wconf 82' lang='lat' dir='ltr'><strong>CHRISTO</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 848 834 938 879; x_wconf 82' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 980 834 1327 880; x_wconf 79' lang='lat' dir='ltr'>ECCLESIA‘</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 289 2230 1320 2364">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 289 2230 1320 2364">
+     <span class='ocr_line' id='line_1_3' title="bbox 294 2230 1318 2277; baseline 0.002 -11"><span class='ocrx_word' id='word_1_7' title='bbox 294 2230 685 2267; x_wconf 87' lang='lat' dir='ltr'><strong>MACMILLAN</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 724 2231 851 2267; x_wconf 89' lang='lat' dir='ltr'><strong>AND</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 893 2231 1000 2277; x_wconf 64' lang='lat' dir='ltr'><strong>CO„</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1041 2232 1318 2268; x_wconf 89' lang='lat' dir='ltr'>LIMITED</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 289 2317 1320 2364; baseline 0 -10"><span class='ocrx_word' id='word_1_11' title='bbox 289 2317 368 2355; x_wconf 91' lang='lat' dir='ltr'><strong>ST.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 410 2317 717 2354; x_wconf 89' lang='lat' dir='ltr'>MARTIN&#39;S</span> <span class='ocrx_word' id='word_1_13' title='bbox 753 2318 1012 2364; x_wconf 88' lang='lat' dir='ltr'>STREET,</span> <span class='ocrx_word' id='word_1_14' title='bbox 1049 2318 1320 2356; x_wconf 92' lang='lat' dir='ltr'>LONDON</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 748 2417 861 2455">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 748 2417 861 2455">
+     <span class='ocr_line' id='line_1_5' title="bbox 748 2417 861 2455; baseline 0 -13"><span class='ocrx_word' id='word_1_15' title='bbox 748 2417 861 2455; x_wconf 84' lang='lat'>¹9¹2</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
